@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://3n0.us/sitemap.xml
