@@ -78,7 +78,7 @@
 .hover:hover {
   text-decoration: none;
   color: #FEFFFE;
-  background: #27262B;
+  background: #03001C;
   transition: all .2s;
   transform: scale(1.03)
 }
